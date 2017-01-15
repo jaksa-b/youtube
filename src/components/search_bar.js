@@ -23,7 +23,7 @@ class SearchBar extends Component {
             <div className="container-fluid">
               <div className="navbar-header">
                 <a className="navbar-brand" href="/">
-                  <img alt="Brand" src="img/logo.png" />
+                  <img alt="Brand" src="img/logo.png"/>
                 </a>
               </div>
               <form className="navbar-form navbar-left" onSubmit={event => this.onFormSubmit(event)}>

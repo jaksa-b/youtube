@@ -9,3 +9,7 @@
 .list-group-item:last-child {
   border-radius: 0px !important;
 }
+
+a.list-group-item:hover {
+    cursor: pointer;
+}
